@@ -40,12 +40,11 @@ I am a passionate **Computer Science Student** and **Full Stack Developer** who 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=sabrina07-ops&show_icons=true&theme=tokyonight&count_private=true" alt="Sabrina's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=sabrina07-ops&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrina07-ops&theme=tokyonight" alt="GitHub Streak" width="97%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrina07-ops&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabrina07-ops&theme=tokyonight" alt="Sabrina's Activity Graph" width="97%" />
 </p>
 
 ---

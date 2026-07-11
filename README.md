@@ -53,7 +53,7 @@ Beyond the terminal, my thought process is fueled by:
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrina07-ops&theme=tokyonight&width=800" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrina07-ops&theme=tokyonight&width=1000" alt="GitHub Streak" />
 
   <br><br>
 
@@ -63,9 +63,25 @@ Beyond the terminal, my thought process is fueled by:
 
 ---
 
+---
+
+### 📡 Communication Array
+*Establishing uplink... Waiting for signal.*
+
 <div align="center">
 
-**[GitHub](https://github.com/sabrina07-ops) | [Email](mailto:sabrinarahmani920@gmail.com)**
-*System Log Terminated.*
+  <a href="mailto:sabrinarahmani920@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
+  </a>
+  
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+  </a>
 
 </div>
+
+<div align="center">
+  <p><i>Status: Open for collaboration & space exploration missions.</i></p>
+</div>
+
+---

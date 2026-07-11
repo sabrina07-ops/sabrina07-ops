@@ -1,57 +1,49 @@
-# Hi there, I'm Sabrina Rahmani 👋
+# 🌌 Sabrina Rahmani
+### *Architect of Virtual Universes & Polymath Developer*
+
 <p align="center">
-  <a href="https://github.com/sabrina07-ops">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EA44F&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Science+Student;Building+Awesome+Space+Simulations" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7B68EE&center=true&width=600&lines=Coding+the+Laws+of+Physics;Blending+Philosophy+with+Code;Building+Interactive+Space+Simulations" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💫 About Me
-I am a passionate **Computer Science Student** and **Full Stack Developer** who loves creating structured, impactful web applications and exploring complex domains like 3D web graphics and interactive engines.
+### 🔭 The Intersection
+I exist at the intersection of **Physics, Philosophy, and Code**. My mission is to translate the complexity of the universe into digital experiences. Whether it's simulating orbital mechanics or writing narrative-driven 3D worlds, I focus on the "Why" as much as the "How."
 
-- 🔭 **Current Project:** Working on **CosmoLogic** – an interactive 3D astronomy simulation web application built with Three.js.
-- 🎯 **Goals:** Master modern full-stack workflows and clean software architecture.
-- ♟️ **Fun Fact:** Love diving into deep tactical chess matches or getting lost in classic philosophy and literature during my downtime.
+- ⚛️ **The Physicist:** Deeply obsessed with Relativity, Quantum Physics, and developing a personal "Theory of Everything."
+- ✒️ **The Novelist:** I don't just build apps; I build worlds. My current novel serves as the creative backbone for my interactive projects.
+- 💻 **The Developer:** Full-stack enthusiast specializing in 3D Web Graphics, React, and Interactive Engines.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🚀 Current Laboratory (Projects)
+*   **[CosmoLogic]:** A 3D Astronomy simulation built with Three.js/React. A sandbox where physics meets the browser.
+*   **[In-Progress]:** Developing a narrative-driven interactive engine (Merging storytelling with WebGL).
 
+---
+
+### 🛠️ The Toolkit
+| Category | Technologies |
+| :--- | :--- |
+| **3D & Graphics** | Three.js, React Three Fiber, WebGL |
+| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3 |
+| **Logic & Data** | Java, Python, SQL (MySQL) |
+| **Tools** | Git, VS Code, Arduino/Robotics (Learning) |
+
+---
+
+### 📚 Philosophy & Mindset
+*"The most beautiful thing we can experience is the mysterious."* — Albert Einstein
+
+When I'm not coding, you'll find me:
+*   ♟️ Studying tactical chess patterns.
+*   📖 Diving into Dostoevsky, Camus, or Kafka.
+*   🌌 Searching for patterns in the stars and theoretical physics.
+
+---
+
+### 🤝 Connect
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br/>
-  <!-- Frameworks & Graphics -->
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.dot-js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <br/>
-  <!-- Design & Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrina07-ops&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabrina07-ops&theme=tokyonight" alt="Sabrina's Activity Graph" width="97%" />
-</p>
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-  <a href="mailto:sabrinarahmani920@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="mailto:sabrinarahmani920@gmail.com"><img src="https://img.shields.io/badge/Email-Space_Blue-4B0082?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/sabrina07-ops"><img src="https://img.shields.io/badge/GitHub-Stellar-24292e?style=for-the-badge&logo=github" /></a>
 </p>

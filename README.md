@@ -53,8 +53,11 @@ Beyond the terminal, my thought process is fueled by:
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabrina07-ops&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabrina07-ops&theme=tokyonight)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrina07-ops&theme=tokyonight&width=800" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabrina07-ops&theme=tokyonight&width=800" alt="Activity Graph" />
 
 </div>
 

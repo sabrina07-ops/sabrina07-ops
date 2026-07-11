@@ -9,7 +9,8 @@
 ---
 
 ### 🛰️ Operational Status
-**Location:** University of Biskra | **Core Directive:** Software Engineering (Génie Logiciel)
+**Location:** University of Biskra | **Academic Track:** Informatique Visuelle
+**Core Directive:** Software Engineering & Visual Computing
 *Translating the complexity of the universe into digital experiences.*
 
 </div>
